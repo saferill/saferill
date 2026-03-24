@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 M. Syafril Ramadhani
+#  M. Syafril Ramadhani
 ### 🎓 Accounting Student | 🌐 Next.js Developer | 🎬 Multimedia Specialist
 
 <p align="center">
