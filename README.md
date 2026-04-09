@@ -17,7 +17,7 @@
 
 ## 📖 Brief Introduction
 
-Saya adalah mahasiswa **Akuntansi di Universitas Nahdlatul Ulama Yogyakarta** (2024-Sekarang). Memiliki akar kuat di bidang **Multimedia** sejak masa SMK, saya kini mendedikasikan waktu untuk mempelajari bagaimana teknologi **Web Development** dapat mentransformasi sistem pelaporan keuangan tradisional menjadi lebih modern.
+Saya adalah mahasiswa (2024-Sekarang). Memiliki akar kuat di bidang **Multimedia** sejak masa SMK, saya kini mendedikasikan waktu untuk mempelajari bagaimana teknologi **Web Development** dapat mentransformasi sistem pelaporan keuangan tradisional menjadi lebih modern.
 
 ### 🚀 Quick Stats
 - 🔭 **Working on:** [Personal Link-in-Bio](https://github.com/saferill) (Next.js & Tailwind)
