@@ -65,7 +65,6 @@ Berangkat dari latar belakang **Multimedia** sejak SMK, saya suka mengeksplorasi
 
 ---
 
-## 📊 Statistik Aktivitas GitHub
 
 ## 📊 Statistik Aktivitas GitHub
 
