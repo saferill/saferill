@@ -69,14 +69,13 @@ Berangkat dari latar belakang **Multimedia** sejak SMK, saya suka mengeksplorasi
 
 ## 📊 Statistik Aktivitas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saferill&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saferill&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## 📊 Statistik Aktivitas GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saferill&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=saferill&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saferill&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 
 ---
 
