@@ -62,8 +62,6 @@ Berangkat dari latar belakang **Multimedia** sejak SMK, saya suka mengeksplorasi
 | Proyek | Tech Stack | Keterangan Singkat | Repositori |
 | :--- | :---: | :--- | :---: |
 | ⚡ **Linko** | `Flutter` `Dart` | Aplikasi transfer file lokal *peer-to-peer* super cepat mirip SHAREit | [Lihat Repo](https://github.com/saferill/Linkoo) |
-| 📰 **Warta Utama** | `JS` `HTML` `CSS` | Portal web berita responsif dengan tampilan modern | [Lihat Repo](https://github.com/saferill/wartautama) |
-| 🌍 **World News Reports** | `JavaScript` | Aplikasi pelaporan dan agregasi berita global | [Lihat Repo](https://github.com/saferill/WorldNewsReports1) |
 
 ---
 
