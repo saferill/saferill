@@ -1,0 +1,33 @@
+<svg width="430" height="165" viewBox="0 0 430 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="c2" x1="0" y1="0" x2="430" y2="165" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1120" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <linearGradient id="b2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes glowBar2 { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+    @keyframes pulseMoon { 0%, 100% { opacity: 0.8; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+    .gbar2 { animation: glowBar2 2.6s ease-in-out infinite; }
+    .moon { transform-origin: 392px 38px; animation: pulseMoon 3s ease-in-out infinite; }
+  </style>
+  <rect x="1" y="1" width="428" height="163" rx="14" fill="url(#c2)" stroke="#1E293B" stroke-width="1.5" />
+  <rect class="gbar2" x="20" y="1" width="110" height="3" rx="1.5" fill="url(#b2)" />
+  <text x="24" y="42" fill="#F8FAFC" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="700">Al-Huda</text>
+  <text x="108" y="41" fill="#34D399" font-family="ui-monospace, monospace" font-size="11.5" font-weight="600">· OFFLINE</text>
+
+  <path class="moon" d="M396 28a10 10 0 1 0 10 14.5A8 8 0 0 1 396 28z" fill="#34D399" />
+
+  <text x="24" y="72" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Privacy-friendly, offline Islamic companion</text>
+  <text x="24" y="92" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">app for Android with zero ads or tracking.</text>
+
+  <rect x="24" y="118" width="62" height="24" rx="6" fill="#0E2923" />
+  <text x="55" y="134" text-anchor="middle" fill="#34D399" font-family="ui-monospace, monospace" font-size="11">Kotlin</text>
+  <rect x="94" y="118" width="72" height="24" rx="6" fill="#0E2923" />
+  <text x="130" y="134" text-anchor="middle" fill="#34D399" font-family="ui-monospace, monospace" font-size="11">Android</text>
+  <text x="404" y="135" text-anchor="end" fill="#34D399" font-family="ui-monospace, monospace" font-size="12" font-weight="600">Explore →</text>
+</svg>

@@ -1,70 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:00D1FF&height=180&section=header&text=Hi,%20I'm%20Syaf&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Mobile%20%26%20Open-Source%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<!-- Animated Custom Hero Banner -->
+<img src="./assets/hero.svg" width="100%" alt="Syaf // saferill" />
 
+<br/>
+
+<!-- Animated Typing Tagline -->
 <a href="https://github.com/saferill">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Kotlin+Multiplatform+%26+Android+Builder;Open-Source+Maintainer+%E2%80%A2+HiFi+%26+Al-Huda;Flutter+%E2%80%A2+Compose+%E2%80%A2+Next.js+%E2%80%A2+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D1FF&center=true&vCenter=true&width=640&lines=Kotlin+Multiplatform+%26+Android+Builder;Open-Source+Maintainer+%E2%80%A2+HiFi+%26+Al-Huda;Flutter+%E2%80%A2+Compose+%E2%80%A2+Next.js+%E2%80%A2+Python" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Indonesia-0F172A?style=for-the-badge&logo=googlemaps&logoColor=00D1FF" />
-  <img src="https://img.shields.io/badge/Focus-Mobile_%26_Open_Source-0F172A?style=for-the-badge&logo=android&logoColor=00D1FF" />
-  <img src="https://img.shields.io/badge/Status-Building_HiFi_%26_Al--Huda-0F172A?style=for-the-badge&logo=github&logoColor=00D1FF" />
-</p>
+<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
 
----
-
-### About Me
-
-I'm **Syaf** (`saferill`), an independent developer from Indonesia focused on building fast, privacy-respecting, and ad-free mobile and desktop applications.
-
-- Currently maintaining **[HiFi](https://github.com/saferill/HiFi)** (Kotlin Multiplatform music player for Android & Windows) and **[Al-Huda](https://github.com/saferill/Al-Huda)** (offline Islamic companion app for Android).
-- Enjoy working across **Kotlin / Jetpack Compose**, **Flutter**, **Next.js**, and **automated GitHub Actions** pipelines.
-
----
-
 ### Featured Projects
 
-| Project | Stack | Description | Links |
-| :--- | :---: | :--- | :---: |
-| **HiFi** | `Kotlin` `Compose` `KMP` | Open-source, ad-free Hi-Res music streaming player for Android & Windows with synced lyrics and offline caching. | [Repo](https://github.com/saferill/HiFi) · [Releases](https://github.com/saferill/HiFi/releases) |
-| **Al-Huda** | `Kotlin` `Android` | Privacy-friendly, offline Islamic companion app for Android with zero tracking or ads. | [Repo](https://github.com/saferill/Al-Huda) |
-| **Linko** | `Flutter` `Dart` | High-speed peer-to-peer local file transfer app across devices. | [Repo](https://github.com/saferill/Linkoo) |
+<div align="center">
+  <a href="https://github.com/saferill/HiFi">
+    <img src="./assets/card-hifi.svg" width="48%" alt="HiFi" />
+  </a>
+  <a href="https://github.com/saferill/Al-Huda">
+    <img src="./assets/card-alhuda.svg" width="48%" alt="Al-Huda" />
+  </a>
+  <br/>
+  <a href="https://github.com/saferill/Linkoo">
+    <img src="./assets/card-linko.svg" width="48%" alt="Linko" />
+  </a>
+</div>
 
-<details>
-<summary><b>HiFi Ecosystem Repositories</b></summary>
+<div align="center">
+  <br/>
+  <a href="https://github.com/saferill/HiFi-web"><img src="https://img.shields.io/badge/HiFi--web-0F172A?style=for-the-badge&logo=vercel&logoColor=00D1FF" /></a>
+  <a href="https://github.com/saferill/HiFi-lyrics"><img src="https://img.shields.io/badge/HiFi--lyrics-0F172A?style=for-the-badge&logo=musicbrainz&logoColor=00D1FF" /></a>
+  <a href="https://github.com/saferill/HiFi-charts"><img src="https://img.shields.io/badge/HiFi--charts-0F172A?style=for-the-badge&logo=youtubemusic&logoColor=00D1FF" /></a>
+  <a href="https://github.com/saferill/HiFi-files"><img src="https://img.shields.io/badge/HiFi--files-0F172A?style=for-the-badge&logo=github&logoColor=00D1FF" /></a>
+</div>
 
-- [`saferill/HiFi-web`](https://github.com/saferill/HiFi-web) — Official website, smart APK downloader, and deep-link router
-- [`saferill/HiFi-lyrics`](https://github.com/saferill/HiFi-lyrics) — Automated synced lyrics catalog & community repository
-- [`saferill/HiFi-charts`](https://github.com/saferill/HiFi-charts) — Automated daily & weekly music chart playlists
-- [`saferill/HiFi-files`](https://github.com/saferill/HiFi-files) — Remote configuration and player asset registry
-
-</details>
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### Tech Stack
 
 <div align="center">
-
-<p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,nextjs,react,ts,js,tailwind,python,gradle,git,githubactions" alt="Tech Stack" />
-</p>
-
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### GitHub Activity
+### Contribution Snake & Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saferill&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saferill&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saferill/saferill/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saferill/saferill/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saferill/saferill/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 
----
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=saferill&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### Connect
 
@@ -78,6 +76,6 @@ I'm **Syaf** (`saferill`), an independent developer from Indonesia focused on bu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saferill&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:00D1FF&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:00D1FF&height=95&section=footer" width="100%" />
 
 </div>
