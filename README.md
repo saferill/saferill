@@ -68,6 +68,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=cloudflarepages&logoColor=00D1FF)](https://syafril.pages.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/safe_rill)
 [![TikTok](https://img.shields.io/badge/TikTok-0F172A?style=for-the-badge&logo=tiktok&logoColor=FFFFFF)](https://tiktok.com/@safe_rill)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mochsyafrilramadhani5@gmail.com)
